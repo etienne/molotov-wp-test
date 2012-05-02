@@ -106,7 +106,6 @@
 			<?php
 				else :
 			?>
-				<?php get_search_form(); ?>
 			<?php endif; ?>
 
 			<nav id="access" role="navigation">
