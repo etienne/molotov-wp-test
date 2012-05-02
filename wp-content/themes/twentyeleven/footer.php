@@ -11,7 +11,9 @@
 ?>
 
 	</div><!-- #main -->
-
+  
+  <p>Je suis un changement dans la branche master.</p>
+  
 	<footer id="colophon" role="contentinfo">
 
 			<?php
