@@ -26,8 +26,10 @@
 				<?php do_action( 'twentyeleven_credits' ); ?>
 				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentyeleven' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentyeleven' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'twentyeleven' ), 'WordPress' ); ?></a>
 			</div>
+      Allo.
 	</footer><!-- #colophon -->
 </div><!-- #page -->
+
 
 <?php wp_footer(); ?>
 
