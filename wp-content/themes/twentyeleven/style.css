@@ -468,7 +468,7 @@ input#searchsubmit {
 
 /* Links */
 a {
-	color: #1982d1;
+	color: red;
 	text-decoration: none;
 }
 a:focus,
