@@ -21,7 +21,9 @@
 				if ( ! is_404() )
 					get_sidebar( 'footer' );
 			?>
-
+      
+      <p>Je suis un changement de la branche footer.</p>
+      
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
